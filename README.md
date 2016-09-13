@@ -10,6 +10,12 @@ Stino is a [Sublime Text](http://www.sublimetext.com) plugin that provides an [A
 1. [Sublime Text](http://www.sublimetext.com)
 2. [Arduino IDE](http://arduino.cc/en/Main/Software)
 
+# Roadmap
+
+- [X] Shortcuts Windows
+- [] Shortcuts MacOS
+- [] Add new Arduino menus
+- [] Documentation
 
 ## Documentation
 Currently there is no documentation for this plugin. I'm working on the plugin and and plan to write some when I can. Until then, you can refer to the [issues](https://github.com/gepd/Stino/issues). I need your help writing some documentation.
